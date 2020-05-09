@@ -1,0 +1,5 @@
+80.0   105.0   5  r1 
+20.0   60.0   5   r2
+2   space_step
+0.00005   time_step
+10    n_save
